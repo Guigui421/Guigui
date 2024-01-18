@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQQABAAAABERERERERERETk7u7u7k5ERETu7u7uRETkROTu7k5ETuRORO7uRORO5O5E5E5E7k7k7k5EROTuTuTu7kRE7u5O5O7uRETu7k7k7k5EROTuTuTuRORORO5O5E5E7u5E5E7kROTu7k5ETkRE7u7u7kREROTu7u7uTkRERERERERERA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Bloc"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAABQBQAAAAAAAAVQAAAAAAAAVVUAAAAAAABVVQUAAAAFAFX1VQAAUAUAVV/1BQBVBQD1//9VVVUFAFVV9VVVVQUAVVVVBQBVBQBVVVUAAFAFAFVVBQAAAAUAVVUAAAAAAAAFUAAAAAAAAFAFAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Final"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAu8sMAAAAAAC93csAAAAAAN3c3QwAAAAAXcXdywAAsLtb1dzNAAC7VVtV3M0AsFtVvVXbzQCw1dFVvdXNALAV/1VVVc2wu/W/RVVVxVu8VdVEVVXFtbBV3URVVbULANtERFVVuwAA8ExEW9ULAAAAALSwuwAAAAAACwAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Mascota"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
